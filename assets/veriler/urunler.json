@@ -1,0 +1,282 @@
+[
+  {
+    "kimlik": 1,
+    "ad": "iPhone 15 Pro",
+    "kisaAciklama": "Titanyum tasarım, güçlü performans.",
+    "aciklama": "Titanyum kasası ve A17 Pro işlemcisiyle güçlü bir telefon deneyimi sunar. 48 MP ana kamerası, özelleştirilebilir Eylem düğmesi ve USB-C bağlantısı bulunur.",
+    "fiyat": 999,
+    "gorsel": "assets/gorseller/urun_1.jpg",
+    "kategori": "Telefon",
+    "ozellikler": {
+      "chip": "A17 Pro",
+      "material": "Titanium",
+      "camera": "48MP Main"
+    }
+  },
+  {
+    "kimlik": 2,
+    "ad": "iPhone 15",
+    "kisaAciklama": "Renkli tasarım, yeni kamera.",
+    "aciklama": "Renkli cam arka yüzeyi ve alüminyum kasasıyla tasarlanmıştır. Dynamic Island, 48 MP ana kamera ve A16 Bionic işlemci içerir.",
+    "fiyat": 799,
+    "gorsel": "assets/gorseller/urun_2.jpg",
+    "kategori": "Telefon",
+    "ozellikler": {
+      "chip": "A16 Bionic",
+      "material": "Aluminum",
+      "camera": "48MP Main"
+    }
+  },
+  {
+    "kimlik": 3,
+    "ad": "iPhone 15 Plus",
+    "kisaAciklama": "Geniş ekran, uzun pil ömrü.",
+    "aciklama": "6,7 inç ekranıyla içerikleri daha geniş bir alanda görüntüler. A16 Bionic işlemcisi ve gün boyu kullanıma uygun piliyle günlük işlere eşlik eder.",
+    "fiyat": 899,
+    "gorsel": "assets/gorseller/urun_3.jpg",
+    "kategori": "Telefon",
+    "ozellikler": {
+      "chip": "A16 Bionic",
+      "display": "6.7\"",
+      "battery": "All-day"
+    }
+  },
+  {
+    "kimlik": 4,
+    "ad": "iPhone 14",
+    "kisaAciklama": "Günlük hayat için güçlü bir seçenek.",
+    "aciklama": "A15 Bionic işlemcisi ve çift kamera sistemiyle fotoğraf çekmek, iletişim kurmak ve içerik izlemek için tasarlanmıştır.",
+    "fiyat": 699,
+    "gorsel": "assets/gorseller/urun_4.jpg",
+    "kategori": "Telefon",
+    "ozellikler": {
+      "chip": "A15 Bionic",
+      "display": "6.1\"",
+      "camera": "Dual system"
+    }
+  },
+  {
+    "kimlik": 5,
+    "ad": "iPhone SE",
+    "kisaAciklama": "Kompakt boyut, güçlü işlemci.",
+    "aciklama": "4,7 inç ekranı, Touch ID parmak izi okuyucusu ve A15 Bionic işlemcisini kompakt bir tasarımda birleştirir.",
+    "fiyat": 429,
+    "gorsel": "assets/gorseller/urun_5.jpg",
+    "kategori": "Telefon",
+    "ozellikler": {
+      "chip": "A15 Bionic",
+      "display": "4.7\"",
+      "id": "Touch ID"
+    }
+  },
+  {
+    "kimlik": 6,
+    "ad": "MacBook Pro 16\"",
+    "kisaAciklama": "Büyük ekranda profesyonel güç.",
+    "aciklama": "M3 Max işlemcisi ve Liquid Retina XDR ekranıyla profesyonel çalışmalar için geliştirilmiştir. 16 inç ekranı geniş bir çalışma alanı sağlar.",
+    "fiyat": 2499,
+    "gorsel": "assets/gorseller/urun_6.jpg",
+    "kategori": "Bilgisayar",
+    "ozellikler": {
+      "chip": "M3 Max",
+      "display": "Liquid Retina XDR",
+      "battery": "22 hrs"
+    }
+  },
+  {
+    "kimlik": 7,
+    "ad": "MacBook Pro 14\"",
+    "kisaAciklama": "Taşınabilir tasarım, profesyonel performans.",
+    "aciklama": "M3 Pro işlemcisi, 14,2 inç ekranı ve HDMI ile SDXC bağlantılarıyla yaratıcı çalışmalar için tasarlanmıştır.",
+    "fiyat": 1599,
+    "gorsel": "assets/gorseller/urun_7.jpg",
+    "kategori": "Bilgisayar",
+    "ozellikler": {
+      "chip": "M3 Pro",
+      "display": "14.2\"",
+      "ports": "HDMI, SDXC"
+    }
+  },
+  {
+    "kimlik": 8,
+    "ad": "MacBook Air 15\"",
+    "kisaAciklama": "İnce, sessiz ve geniş ekranlı.",
+    "aciklama": "15 inç ekranı ve M2 işlemcisiyle günlük işlere geniş bir çalışma alanı sunar. Fansız tasarımı sessiz çalışır.",
+    "fiyat": 1299,
+    "gorsel": "assets/gorseller/urun_8.jpg",
+    "kategori": "Bilgisayar",
+    "ozellikler": {
+      "chip": "M2",
+      "weight": "3.3 lbs",
+      "design": "Fanless"
+    }
+  },
+  {
+    "kimlik": 9,
+    "ad": "MacBook Air 13\"",
+    "kisaAciklama": "Hafif tasarım, gün boyu kullanım.",
+    "aciklama": "13,6 inç ekranı ve M2 işlemcisiyle kolay taşınabilen bir dizüstü bilgisayardır. Uzun pil ömrüyle günlük çalışmalara eşlik eder.",
+    "fiyat": 1099,
+    "gorsel": "assets/gorseller/urun_9.jpg",
+    "kategori": "Bilgisayar",
+    "ozellikler": {
+      "chip": "M2",
+      "battery": "18 hrs",
+      "display": "13.6\""
+    }
+  },
+  {
+    "kimlik": 10,
+    "ad": "iMac",
+    "kisaAciklama": "Renkli bir masaüstü deneyimi.",
+    "aciklama": "M3 işlemciyi 24 inç 4,5K Retina ekranla bir araya getirir. Farklı renk seçenekleriyle çalışma alanına uyum sağlar.",
+    "fiyat": 1299,
+    "gorsel": "assets/gorseller/urun_10.jpg",
+    "kategori": "Bilgisayar",
+    "ozellikler": {
+      "chip": "M3",
+      "display": "24\" 4.5K Retina",
+      "colors": "7 vibrant colors"
+    }
+  },
+  {
+    "kimlik": 11,
+    "ad": "iPad Pro 12.9\"",
+    "kisaAciklama": "Yaratıcılığa geniş bir alan.",
+    "aciklama": "M2 işlemcisi ve 12,9 inç XDR ekranıyla çizim, tasarım ve çoklu görevler için geliştirilmiştir. Apple Pencil ile kullanılabilir.",
+    "fiyat": 1099,
+    "gorsel": "assets/gorseller/urun_11.jpg",
+    "kategori": "Tablet",
+    "ozellikler": {
+      "chip": "M2",
+      "screen": "XDR",
+      "pencil": "Hover support"
+    }
+  },
+  {
+    "kimlik": 12,
+    "ad": "iPad Air",
+    "kisaAciklama": "Hafif tasarımda güçlü performans.",
+    "aciklama": "M1 işlemcisi, 10,9 inç ekranı ve 5G bağlantı seçeneğiyle çalışma ve eğlenceyi bir araya getirir.",
+    "fiyat": 599,
+    "gorsel": "assets/gorseller/urun_12.jpg",
+    "kategori": "Tablet",
+    "ozellikler": {
+      "chip": "M1",
+      "display": "10.9\"",
+      "connectivity": "5G"
+    }
+  },
+  {
+    "kimlik": 13,
+    "ad": "iPad Mini",
+    "kisaAciklama": "Küçük boyut, büyük olanaklar.",
+    "aciklama": "8,3 inç ekranı ve A15 Bionic işlemcisiyle taşınabilir bir tablet deneyimi sunar. 12 MP geniş açılı kameraya sahiptir.",
+    "fiyat": 499,
+    "gorsel": "assets/gorseller/urun_13.jpg",
+    "kategori": "Tablet",
+    "ozellikler": {
+      "chip": "A15 Bionic",
+      "display": "8.3\"",
+      "camera": "12MP Wide"
+    }
+  },
+  {
+    "kimlik": 14,
+    "ad": "Apple Watch Ultra 2",
+    "kisaAciklama": "Maceralara hazır.",
+    "aciklama": "Titanyum kasası, yüksek parlaklıktaki ekranı ve hassas çift frekanslı GPS sistemiyle açık hava etkinlikleri için tasarlanmıştır.",
+    "fiyat": 799,
+    "gorsel": "assets/gorseller/urun_14.jpg",
+    "kategori": "Saat",
+    "ozellikler": {
+      "case": "Titanium",
+      "brightness": "3000 nits",
+      "gps": "Precision dual-frequency"
+    }
+  },
+  {
+    "kimlik": 15,
+    "ad": "Apple Watch Series 9",
+    "kisaAciklama": "Bileğinde akıllı bir yardımcı.",
+    "aciklama": "S9 SiP işlemcisi ve çift dokunuş özelliğiyle günlük kullanım kolaylığı sunar. Sağlık ve etkinlik takibine yardımcı olur.",
+    "fiyat": 399,
+    "gorsel": "assets/gorseller/urun_15.jpg",
+    "kategori": "Saat",
+    "ozellikler": {
+      "chip": "S9 SiP",
+      "feature": "Double tap",
+      "carbon": "Neutral option"
+    }
+  },
+  {
+    "kimlik": 16,
+    "ad": "Apple Vision Pro",
+    "kisaAciklama": "Dijital içerikle yeni bir etkileşim.",
+    "aciklama": "visionOS sistemi ve Micro-OLED ekranlarıyla uzamsal bir deneyim sunar. Göz, el ve ses hareketleriyle kontrol edilir.",
+    "fiyat": 3499,
+    "gorsel": "assets/gorseller/urun_16.jpg",
+    "kategori": "Ses ve aksesuar",
+    "ozellikler": {
+      "os": "visionOS",
+      "display": "Micro-OLED",
+      "control": "Eyes, hands, voice"
+    }
+  },
+  {
+    "kimlik": 17,
+    "ad": "AirPods Pro (2nd Gen)",
+    "kisaAciklama": "Sesin ayrıntılarını keşfet.",
+    "aciklama": "H2 işlemcisi, aktif gürültü engelleme ve uzamsal ses özellikleriyle dinleme deneyimi sunar. USB-C şarj kutusuyla birlikte gelir.",
+    "fiyat": 249,
+    "gorsel": "assets/gorseller/urun_17.jpg",
+    "kategori": "Ses ve aksesuar",
+    "ozellikler": {
+      "chip": "H2",
+      "audio": "Spatial Audio",
+      "case": "USB-C"
+    }
+  },
+  {
+    "kimlik": 18,
+    "ad": "AirPods Max",
+    "kisaAciklama": "Müziğe daha yakından kulak ver.",
+    "aciklama": "Kulak üstü tasarımı, dinamik sürücüsü ve aktif gürültü engellemesiyle sesleri ayrıntılı duymaya yardımcı olur.",
+    "fiyat": 549,
+    "gorsel": "assets/gorseller/urun_18.jpg",
+    "kategori": "Ses ve aksesuar",
+    "ozellikler": {
+      "driver": "Dynamic",
+      "cancellation": "Active Noise",
+      "materials": "Mesh canopy"
+    }
+  },
+  {
+    "kimlik": 19,
+    "ad": "HomePod",
+    "kisaAciklama": "Evin her köşesinde güçlü ses.",
+    "aciklama": "Hesaplamalı ses teknolojisi ve oda algılama özelliğiyle bulunduğu ortama uyum sağlar. Akıllı ev merkezi olarak da kullanılabilir.",
+    "fiyat": 299,
+    "gorsel": "assets/gorseller/urun_19.jpg",
+    "kategori": "Ses ve aksesuar",
+    "ozellikler": {
+      "audio": "Computational",
+      "home": "Smart Hub",
+      "sensing": "Room sensing"
+    }
+  },
+  {
+    "kimlik": 20,
+    "ad": "HomePod Mini",
+    "kisaAciklama": "Küçük boyutta, her yöne ses.",
+    "aciklama": "Kompakt tasarımıyla 360 derece ses sunar. Farklı renk seçenekleriyle yaşam alanlarına uyum sağlar.",
+    "fiyat": 99,
+    "gorsel": "assets/gorseller/urun_20.jpg",
+    "kategori": "Ses ve aksesuar",
+    "ozellikler": {
+      "size": "3.3 inches",
+      "audio": "360-degree",
+      "colors": "5 colors"
+    }
+  }
+]
